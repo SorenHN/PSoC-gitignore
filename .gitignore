@@ -1,0 +1,16 @@
+# Userfile
+*.cyprj.*
+*.cywrk.*
+
+# Miscellaneous files
+*.cycdx
+*.gsvd
+*.html
+*.pdf
+*.rpt
+
+# Folders
+*codegentemp/
+*CoretexM3/
+*Debug/
+*Generated_Source/
